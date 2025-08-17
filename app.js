@@ -4,4 +4,4 @@ function tasl1(str) {
   console.log(result);
 }
 
-// console.log(tasl1("hello"));
+console.log(tasl1("hello"));
